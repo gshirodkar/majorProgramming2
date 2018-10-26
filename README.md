@@ -1,2 +1,2 @@
 # majorProgramming2
-major CS projects 
+This is the second respository of major CS projects in Java created by Wingjun Chan. 
